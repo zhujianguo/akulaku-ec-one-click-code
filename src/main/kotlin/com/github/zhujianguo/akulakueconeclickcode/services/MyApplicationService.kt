@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zhujianguo.akulakueconeclickcode.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zhujianguo.akulakueconeclickcode.MyBundle
 
 class MyApplicationService {
 
